@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - _Head_A
+  - _L_Shoulder_A
+  - _L_Elbow_A
+  - _L_Wrist_A
+  - _R_Shoulder_A
+  - _R_Elbow_A
+  - _R_Wrist_A
+  - _Pelvis_A
+  - _L_Hip_A
+  - _L_Knee_A
+  - _L_Ankle_A
+  - _L_Foot_A
+  - _R_Hip_A
+  - _R_Knee_A
+  - _R_Ankle_A
+  - _R_Foot_A
+  - _Head_B
+  - _L_Shoulder_B
+  - _L_Elbow_B
+  - _L_Wrist_B
+  - _R_Shoulder_B
+  - _R_Wrist_B
+  - _R_Elbow_B
+  - _Pelvis_B
+  - _L_Hip_B
+  - _L_Knee_B
+  - _L_Ankle_B
+  - _L_Foot_B
+  - _R_Hip_B
+  - _R_Knee_B
+  - _R_Ankle_B
+  - _R_Foot_B
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraControl
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
